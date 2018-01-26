@@ -41,3 +41,4 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+/electron-api-poc02-win32-x64/
